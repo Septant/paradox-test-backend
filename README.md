@@ -37,6 +37,7 @@ $ npm run build
 ```
 3. Положить папку [client](client) в папку [dist](dist)
 4. Убедиться в том, что база данных запущена
+* Для тестирования на windows использовались: [dbforge Studio for mySQL](http://www.devart.com/ru/dbforge/mysql/studio), а также [OpenServer](https://ospanel.io/)
 5. Запустить скрипт приложения в терминале в папке [dist](dist):
 ```bash 
 # Запуск приложения
