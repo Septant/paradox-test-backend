@@ -12,7 +12,7 @@
 ORM взаимодействия с бд: [typeorm](https://docs.nestjs.com/techniques/database#typeorm-integration)
 
 
-## Пререквизиты:
+## Необходимые условия:
 Версия Node: 18.10.0
 База данных: MySQL-8.0
 
@@ -46,9 +46,6 @@ $ node main.js
 6. Приложение будет доступно по адресу http://localhost:3000/
 * Документация по использованию приложения находится в репозитории [frontend](https://github.com/Septant/paradox-test-frontend/blob/master/README.md)
 
-## Support
-Nest is an MIT-licensed open source project. It can grow thanks to the sponsors and support by the amazing backers. If you'd like to join them, please [read more here](https://docs.nestjs.com/support).
-
-## License
+## Лицензирование
 
 Nest is [MIT licensed](LICENSE).
