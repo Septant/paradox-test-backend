@@ -47,4 +47,4 @@ $ node main.js
 
 ## Лицензирование
 
-Nest is [MIT licensed](LICENSE).
+Nest распространяется по лицензии [MIT](LICENSE).
