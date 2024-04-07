@@ -54,8 +54,8 @@ $ npm run start
 * Запустить
 * Выполнить пункты 1-6 раздела `Порядок запуска`
 
-### Linux
-```sudo apt install mysql-server mysql-client```
+### Linux 
+* ```sudo apt install mysql-server mysql-client```
 
 ## Лицензирование
 
