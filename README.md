@@ -6,10 +6,10 @@
 [circleci-url]: https://circleci.com/gh/nestjs/nest
 
 # Backend
-Тестовое задание для Парадокс
+Тестовое задание для Парадокс.
 Бэкенд: [Nest](https://github.com/nestjs/nest) .
 
-ORM взаимодействия с бд: [typeorm](https://docs.nestjs.com/techniques/database#typeorm-integration)
+ORM взаимодействия с бд: [typeorm](https://docs.nestjs.com/techniques/database#typeorm-integration).
 
 
 ## Необходимые условия:
@@ -17,7 +17,7 @@ ORM взаимодействия с бд: [typeorm](https://docs.nestjs.com/tech
 
 ## Порядок запуска:
 
-1. Настроить базу данных в [app.module.ts](./src/app.module.ts): указать username, password, database
+1. Настроить базу данных в [app.module.ts](./src/app.module.ts): указать username, password, database.
 2. Выполнить последовательно команды указанные ниже:
 
 ```bash
@@ -34,16 +34,16 @@ $ npm run start
 # Сборка
 $ npm run build
 ```
-3. Положить папку [client](client) в папку [dist](dist)
-4. Убедиться в том, что база данных запущена
-* Для тестирования на windows использовались: [dbforge Studio for mySQL](http://www.devart.com/ru/dbforge/mysql/studio), а также [OpenServer](https://ospanel.io/)
+3. Положить папку [client](client) в папку [dist](dist).
+4. Убедиться в том, что база данных запущена.
+* Для тестирования на windows использовались: [dbforge Studio for mySQL](http://www.devart.com/ru/dbforge/mysql/studio), а также [OpenServer](https://ospanel.io/).
 5. Запустить скрипт приложения в терминале в папке [dist](dist):
 ```bash 
 # Запуск приложения
 $ node main.js
 ```
 6. Приложение будет доступно по адресу http://localhost:3000/
-* Документация по использованию приложения находится в репозитории [frontend](https://github.com/Septant/paradox-test-frontend/blob/master/README.md)
+* Документация по использованию приложения находится в репозитории [frontend](https://github.com/Septant/paradox-test-frontend/blob/master/README.md).
 
 ## Лицензирование
 
